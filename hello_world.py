@@ -1,2 +1,2 @@
 def hello_world():
-    pass
+    return "this here is the place where i'll be staying"
