@@ -1,2 +1,2 @@
 def hello_world():
-    return "there isn't a number so call the payphone"
+    return "let it ring a long long long time"
